@@ -1,5 +1,7 @@
 # spotify-clone
-This is my personal project in which I create a music streaming application called "Sangeet" using web technologies like HTML, CSS and JavaScript.
+This is my personal project in which I create a music streaming application called "Sangeet" using web technologies like HTML, CSS and JavaScript.I have also made the website responsive so as to have a mobile friendly experiance of my project.
+
+
 here is the link for my project deployment on GitHub Pages =>  https://rohit-vk24.github.io/spotify-clone/
 
 
